@@ -1,7 +1,5 @@
 # calculated
 
-# calculated
-
 ### My Calculator
 
 My Calculator is a versatile Reverse Polish Notation (RPN) calculator implemented in Java. 
