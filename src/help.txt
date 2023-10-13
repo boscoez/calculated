@@ -1,0 +1,49 @@
+----------CALCULATOR HELP----------
+
+This Calculator is a command-line tool for evaluating mathematical expressions in Reverse Polish Notation (RPN).
+Below is a summary of its functionality and usage:
+
+1. How to Input Expressions:
+- You can input mathematical expressions using a combination of numbers, operators, and functions.
+
+2. Supported Operators:
+- The following operators are supported:
+
+   + (addition), - (subtraction), * (multiplication), / (division), ^ (exponentiation), sqrt (square root),
+   sin (sine), cos (cosine), tan (tangent), cot (cotangent), arcsin (arcsine), arccos (arccosine),
+   arctan (arctangent), arcctg (arccotangent), ln (natural logarithm), and log (logarithm base 10).
+
+3. Usage:
+- To use the calculator, follow these steps:
+- Select "1" or "compute" from the menu to start computation.
+- Enter your RPN expression when prompted.
+- The calculator will evaluate the expression and display the result.
+
+4. Supported Parentheses, Braces, and Brackets:
+- You can use parentheses "(", ")", "{", "}", "[", and "]" to group parts of your expression.
+- The calculator ensures that parentheses are properly balanced.
+
+5. Special Commands:
+- You can use "2" For "help" to display this help menu.
+- To exit the calculator, choose "3" or "exit" from the menu.
+
+6. Notes:
+- Invalid expressions or division by zero will result in appropriate error messages.
+- The calculator provides options for various mathematical functions and operations.
+- This calculator is capable of reading in expressions normally: 5+8, 10*(3+2), 10^7,
+or in Reverse Polish Notation RPN 10 3 2 + .
+
+ - See example expressions.
+
+Example Expressions:
+- To calculate the square root of 16: "16 sqrt"
+- To calculate 5 + 3: "5 3 +"
+- To calculate 10 * (3 + 2): "10 3 2 + *"
+- To calculate -5.78+-(4-2.23)+sin(0)*cos(1)/(1+tan(2*ln(-3+2*(1.23+99.111))))
+- For more complex expressions, use operators and grouping as needed.
+
+- Thank you for using My Calculator. If you encounter any issues or need further assistance, please refer
+to this help summary or consult the README.md document.
+
+
+October 11, 2023, Boscoe Lindholm CS480 L2 MyCalculator
